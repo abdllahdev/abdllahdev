@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/algorizr/algorizr/blob/main/header.gif" alt="Hi there! I'm Abdullah" width="1024px">
+</p>
+
 ## Languages
 
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
@@ -5,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 
 ## Technologies
 
