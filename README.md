@@ -14,22 +14,22 @@ I'm a software engineer with experience in full-stack development and compilers.
 
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?&logo=OCaml&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
 
 ## Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=TailwindCSS&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white)
