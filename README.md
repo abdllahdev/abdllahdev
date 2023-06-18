@@ -2,6 +2,14 @@
   <img src="https://github.com/algorizr/algorizr/blob/main/header.gif" alt="Hi there! I'm Abdullah" width="1024px">
 </p>
 
+I'm a software engineer with experience in full-stack development and compilers. I have a [blog](https://algorizr.com) where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
+
+## Socials
+
+[![algorizr.com](https://img.shields.io/badge/😎%20algorizr.com-E879F9)](https://algorizr.com)
+[![Twitter](https://img.shields.io/badge/@algorizr-1DA1F2?&logo=Twitter&logoColor=white)](https://twitter.com/algorizr)
+[![LinkedIn](https://img.shields.io/badge/@algorizr-0A66C2?&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/algorizr)
+
 ## Languages
 
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?&logo=OCaml&logoColor=white)
@@ -31,7 +39,7 @@
 
 ## My Github Stats
 
-<a href="https://algorizr.com/">
+<a href="https://algorizr.com" target="_blank">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=algorizr&hide_title=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorizr&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex" />
 </a>
