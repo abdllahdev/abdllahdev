@@ -31,14 +31,11 @@ I'm a Software Engineer 👨‍💻 with experience in full-stack development. I
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=TailwindCSS&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ## My Github Stats
