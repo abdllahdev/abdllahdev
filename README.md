@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/algorizr/algorizr/blob/main/header.gif" alt="Hi there! I'm Abdullah" width="1024px">
-</p>
+# Hi there! I'm Abdullah
 
 I'm a software engineer with experience in full-stack development and compilers. I have a [blog](https://algorizr.com) where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
 
