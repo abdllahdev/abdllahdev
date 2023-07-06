@@ -1,6 +1,6 @@
 # Hi there! I'm Abdullah
 
-I'm a software engineer with experience in full-stack development and compilers. I recently gradauted with a master's degree in Computer Science and Software Engineering from the University of Birmingham. I have a [blog](https://algorizr.com) where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
+I'm a Software Engineer 👨‍💻 with experience in full-stack development. I recently gradauted 🎓 with a master's degree in Computer Science and Software Engineering 💻 from the University of Birmingham. I have a [blog](https://algorizr.com) 🌐 where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
 
 ## Socials
 
