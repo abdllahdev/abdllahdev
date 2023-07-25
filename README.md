@@ -1,12 +1,12 @@
 # Hi there! I'm Abdullah
 
-I'm a Software Engineer 👨‍💻 with experience in full-stack development. I recently gradauted 🎓 with a master's degree in Computer Science and Software Engineering 💻 from the University of Birmingham. I have a [blog](https://algorizr.com) 🌐 where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
+I'm a Software Engineer 👨‍💻 with experience in full-stack development. I recently gradauted 🎓 with a master's degree in Computer Science and Software Engineering 💻 from the University of Birmingham. I have a [blog](https://abdllah.dev) 🌐 where I share about my journey of exploring various aspects of computer science, ranging from Programming Languages, AI, Web Development, to Theoretical CS.
 
 ## Socials
 
-[![algorizr.com](https://img.shields.io/badge/🌐%20algorizr.com-fb7185?&style=for-the-badge)](https://algorizr.com)
-[![Twitter](https://img.shields.io/badge/@algorizr-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/algorizr)
-[![LinkedIn](https://img.shields.io/badge/@algorizr-0A66C2?&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/algorizr)
+[![abdllah.dev](https://img.shields.io/badge/🌐%20abdllah.dev-fb7185?&style=for-the-badge)](https://abdllah.dev)
+[![Twitter](https://img.shields.io/badge/@abdllah_dev-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/abdllah_dev)
+[![LinkedIn](https://img.shields.io/badge/@abdllahdev-0A66C2?&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abdllahdev)
 
 ## Languages
 
@@ -40,7 +40,7 @@ I'm a Software Engineer 👨‍💻 with experience in full-stack development. I
 
 ## My Github Stats
 
-<a href="https://algorizr.com" target="_blank">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=algorizr&hide_title=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorizr&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex" />
+<a href="https://abdllah.dev" target="_blank">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=abdllahdev&hide_title=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdllahdev&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex" />
 </a>
