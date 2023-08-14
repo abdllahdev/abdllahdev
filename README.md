@@ -5,7 +5,7 @@ I'm a Software Engineer 👨‍💻 with experience in full-stack development. I
 ## Socials
 
 [![abdllah.dev](https://img.shields.io/badge/🌐%20abdllah.dev-fb7185?&style=for-the-badge)](https://abdllah.dev)
-[![Twitter](https://img.shields.io/badge/@abdllah_dev-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/abdllah_dev)
+[![Twitter](https://img.shields.io/badge/@abdllah_dev-000?&logo=X&style=for-the-badge)](https://twitter.com/abdllah_dev)
 [![LinkedIn](https://img.shields.io/badge/@abdllahdev-0A66C2?&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abdllahdev)
 
 ## Languages
