@@ -8,36 +8,6 @@ I'm a Software Engineer 👨‍💻 with experience in full-stack development. I
 [![Twitter](https://img.shields.io/badge/@abdllah_dev-000?&logo=X&style=for-the-badge)](https://twitter.com/abdllah_dev)
 [![LinkedIn](https://img.shields.io/badge/@abdllahdev-0A66C2?&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abdllahdev)
 
-## Languages
-
-![OCaml](https://img.shields.io/badge/-OCaml-EC6813?&logo=OCaml&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-FFFFFF?&logo=openjdk&logoColor=black&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=black&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=white&style=for-the-badge)
-
-## Technologies and Tools
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=nextdotjs&style=for-the-badge)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?&logo=astro&logoColor=black&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=TailwindCSS&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
 ## My Github Stats
 
 <a href="https://abdllah.dev" target="_blank">
