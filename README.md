@@ -1,7 +1,5 @@
 # Hi there! I'm Abdullah
 
-I'm a Software Engineer 👨‍💻 with experience in full-stack development. I recently gradauted 🎓 with MEng degree in Computer Science and Software Engineering 💻 from the University of Birmingham. Checkout my [blog](https://abdllah.dev), where I share posts about my journey of exploring various areas in computer science, ranging from Programming Languages, AI, Web Programming, to Theoretical CS.
-
 ## Socials
 
 [![abdllah.dev](https://img.shields.io/badge/🌐%20abdllah.dev-fb7185?&style=for-the-badge)](https://abdllah.dev)
