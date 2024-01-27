@@ -12,6 +12,12 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdllahdev&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex" />
 </div>
 
+<div align="center">
+  <h3>
+    <a href="https://www.upwork.com/freelancers/~01167bf64a8e8ac9ff">Hire me</a>
+  </h3>
+</div>
+
 <h3 align="center">Connect with me</h3>
 <div align="center">
   <a href="https://abdllah.dev">
