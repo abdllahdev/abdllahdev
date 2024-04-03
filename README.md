@@ -8,8 +8,8 @@
 - 💖 My interests are **Web Development**, **Programming Languages**, **Compilers**, and **AI**
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=abdllahdev&hide_title=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdllahdev&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex" />
+  <img height="150px" src="https://github-readme-stats-gamma-snowy-54.vercel.app/api?username=abdllahdev&hide_title=true&hide_border=true&show_icons=true&theme=dracula&count_private=true&hide=contribs" />
+  <img height="150px" src="https://github-readme-stats-gamma-snowy-54.vercel.app/api/top-langs/?username=abdllahdev&theme=dracula&hide_title=true&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,jupyter%20notebook,jinja,tex,css,scss,dart,astro,mdx" />
 </div>
 
 <div align="center">
