@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="hacking" width="250">
 </div>
 
-- 💻 I specialise in **full-stack development**.
-- ⚒️ My favourite programming languages and tools are [OCaml](https://ocaml.org), [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [React](https://reactjs.org), [Next.js](https://nextjs.org), [Astro](https://astro.build), [Node.js](https://nodejs.org), [Django](https://www.djangoproject.com), [TailwindCSS](https://tailwindcss.com), [Prisma](https://prisma.io).
-- 💖 My interests are **Web Development**, **Programming Languages**, **Compilers**, and **AI**
-
 <div align="center">
   <img height="150px" src="https://github-readme-stats-gamma-snowy-54.vercel.app/api?username=abdllahdev&hide_title=true&hide_border=true&show_icons=true&theme=dracula&count_private=true&hide=contribs" />
   <img height="150px" src="https://github-readme-stats-gamma-snowy-54.vercel.app/api/top-langs/?username=abdllahdev&theme=dracula&hide_title=true&layout=compact&hide_border=true&hide=html,jupyter%20notebook,jinja,tex,css,scss,dart,astro,mdx" />
